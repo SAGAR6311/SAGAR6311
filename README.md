@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌟 With over 2 years of experience in software development, I specialize in crafting seamless features and user interfaces for both web and mobile applications. I'm passionate about turning complex problems into elegant solutions that enhance user experience.<br><br>
+🌟👋 Hi! I'm Sagar Panchal, a dedicated Software Developer with over 2 years of experience crafting seamless web and mobile applications. My expertise spans across a wide array of technologies, including ReactJS, React Native, TypeScript, and Node.js, allowing me to build dynamic user interfaces and robust functionalities. I thrive in solving complex problems through innovative solutions while delivering high-performance applications.
+
+At IncuseHR and Shri Hari Info Solutions, I led development initiatives to create scalable, maintainable apps for both Android and iOS platforms, focusing on user experience, performance optimization, and client satisfaction. My passion for technology and continuous learning has driven me to collaborate on cutting-edge projects, from enhancing employee management systems to building tools for agricultural data analysis.
+
+With a strong foundation in full-stack development, I enjoy taking on challenges that push me to grow and contribute to impactful software solutions. Let’s connect and explore how we can collaborate on transformative projects!.<br><br>
 
 
 ## 🌐 Socials:
